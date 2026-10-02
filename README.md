@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Shagun Singh
 
-<!--
-**Shagunsinghgkp/Shagunsinghgkp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+📊 Aspiring Data Analyst  
+🐍 Currently learning Python, Excel & SQL  
+💡 Interested in Data Analytics and Technology
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Excel
+- SQL
+- Data Analysis
+- Data Visualization
+- Git & GitHub
+
+## 📂 Projects
+
+- 🎓 Student Management System
+- 📊 Student Management Analysis
+- 🏏 IPL Data Analysis
+  
+
+## 🌱 Currently Learning
+
+- Python for Data Analysis
+- SQL
+- Excel
+- Data Visualization
+- Power BI
+
+## 🎯 Career Goal
+
+To become a skilled Data Analyst and build practical projects using data.
+
+## 📫 Connect With Me
+
+GitHub: @Shagunsinghgkp
